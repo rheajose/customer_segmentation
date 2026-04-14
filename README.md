@@ -39,7 +39,7 @@ Features used: Age, Annual Income, Spending Score, Gender
 └── README.md                     # This file
 
 ## How to Run
-1. git clone https://github.com/YOUR_USERNAME/customer-segmentation.git
+1. git clone https://github.com/rheajose/customer-segmentation.git
 2. pip install -r requirements.txt
 3. Download Mall_Customers.csv from Kaggle and place in project folder
 4. jupyter notebook customer_segmentation.ipynb
